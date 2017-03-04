@@ -1,0 +1,14 @@
+body {
+	background-image: url(back.jpg);
+	background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h1 {
+	color: white;
+	font-family: Comic Sands MS;
+}
+h2 {
+	color: white;
+	font-family: Comic Sands MS;
+}
